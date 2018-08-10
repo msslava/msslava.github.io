@@ -51,7 +51,7 @@
 
 body {
   color: #777777;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Neucha', cursive;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.625em;
@@ -130,7 +130,7 @@ h4, h5, h6 {
 .h4, .h5, .h6 {
   margin-bottom: 0;
   margin-top: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Neucha', cursive;
   font-weight: 600;
   color: #222222;
 }
